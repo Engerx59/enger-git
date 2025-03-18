@@ -12,3 +12,4 @@
 10. git branch -d rama-heroes
 11. git remote show origin 
 12. git push
+13. git commit -am
